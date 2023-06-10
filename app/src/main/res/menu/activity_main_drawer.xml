@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_svgrepo_com"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_family"
+            android:icon="@drawable/family_with_kid_happiness_family_parents_svgrepo_com"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_school"
+            android:icon="@drawable/school_sharp_svgrepo_com"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/job_search_svgrepo_com"
+            android:title="@string/menu_is" />
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/people_distance_solid_svgrepo_com"
+            android:title="@string/menu_arkadas" />
+    </group>
+</menu>
