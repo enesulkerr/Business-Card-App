@@ -44,4 +44,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE
 
 ----------
 
-Bu sadece bir örnek README dosyasıdır. Projenizin gereksinimlerine ve yapısına göre, içeriği ve biçimi özelleştirebilirsiniz.
+
